@@ -1,0 +1,6 @@
+ - Tout d'abord sortir les fichiers de l'archive
+ - faire "make all" 		("make help" pour afficher toutes les commandes du makefile)
+ - faire "cat patterns/fichier.txt | ./exe"
+ - faire "make doxy" pour avoir la documentation doxygène
+ - faire "firefox html/index.html" pour afficher la documentation doxygène
+ - faire "make clean" pour effacer les fichiers .o et sauvegarder les .c et .h 
